@@ -1,1 +1,4 @@
 node_modules
+ES6_data_manipulation/.eslintrc.js
+ES6_data_manipulation/babel.config.js
+ES6_data_manipulation/package.json
