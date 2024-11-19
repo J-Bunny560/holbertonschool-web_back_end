@@ -1,6 +1,5 @@
 export default function cleanSet(set, startString) {
   const str = [];
-
   if (typeof startString !== 'string'
           || typeof set !== 'object'
           || startString.length === 0
@@ -12,6 +11,5 @@ export default function cleanSet(set, startString) {
       str.push(item.slice(startString.length));
     }
   }
-
   return str.join('-');
 }
