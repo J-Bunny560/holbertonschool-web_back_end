@@ -6,4 +6,4 @@ export default function createInt8TypedArray(length, position, value) {
   const int8view = new Int8Array(buffer);
   int8view[position] = value;
   return new DataView(buffer);
-  }
+}
