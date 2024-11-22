@@ -17,3 +17,7 @@ package-lock.json
 ES6_basic/nodesource_setup.sh
 ES6_basic/eslint.config.js
 ES6_basic/eslint.config.mjs
+ES6_classes/.eslintrc.js
+ES6_classes/babel.config.js
+ES6_classes/nodesource_setup.sh
+ES6_classes/package.json
