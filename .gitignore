@@ -21,3 +21,7 @@ ES6_classes/.eslintrc.js
 ES6_classes/babel.config.js
 ES6_classes/nodesource_setup.sh
 ES6_classes/package.json
+ES6_promise/.eslintrc.js
+ES6_promise/babel.config.js
+ES6_promise/nodesource_setup.sh
+ES6_promise/package.json
