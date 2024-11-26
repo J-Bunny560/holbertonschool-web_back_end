@@ -1,4 +1,4 @@
-import { uploadPhoto, createUser } from 'home/joshua/holbertonschool-web_back_end/ES6_promise/utils';
+import { uploadPhoto, createUser } from './utils';
 
 export default function handleProfileSignup() {
   return Promise.all([uploadPhoto(), createUser()])
