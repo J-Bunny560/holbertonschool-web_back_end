@@ -27,3 +27,6 @@ ES6_promise/nodesource_setup.sh
 ES6_promise/package.json
 ES6_promise/utils.js
 0-main.py
+pagination/Popular_Baby_Names.csv
+pagination/1-main.py
+pagination/__pycache__/1-simple_pagination.cpython-310.pyc
